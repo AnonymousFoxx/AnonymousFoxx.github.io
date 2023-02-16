@@ -1,1 +1,13 @@
-Sitemap: https://github.com/AnonymousFoxx/sitemap.xml
+User-agent: Mediapartners-Google
+
+Allow: /
+
+User-agent: Adsbot-Google
+
+Allow: /
+
+User-agent: Googlebot-Mobile
+
+Allow: /
+
+Sitemap: https://anonymousfoxx.github.io/sitemap.xml
